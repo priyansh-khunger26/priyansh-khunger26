@@ -1,21 +1,22 @@
 
 # 👋 Hi, I'm Priyansh Khunger!
 
-**My code is fueled by innovation and curiosity 🚀**
+**My code runs on coffee and late-night debugging sessions ☕🚀**
 
 ---
 
 ### 👨‍💻 **About Me**
 🎓 **Computer Science Graduate** from **IIIT Hyderabad**  
-🌟 Passionate about **MERN Stack**, **DBMS**, **Competitive Programming**, **Computer Vision**, and **Distributed Systems**  
-🚀 I love building scalable solutions and solving challenging problems.  
+🌟 Fluent in **Web Development** with expertise in the **MERN Stack**  
+⚔️ Interested in **Competitive Programming** and solving algorithmic challenges  
+🔬 Currently working in the **Computer Vision** and **NLP** domains  
 
 ---
 
 ### 🚀 **What I'm Working On**
-- Building efficient **Computer Vision** models for sports analytics 🚴‍♂️  
-- Developing advanced **Distributed Systems** and exploring **AI Interpretability**  
-- Leveraging **MERN Stack** to create seamless web applications 🌐  
+- Building robust **Computer Vision** models for real-world applications 📸  
+- Exploring cutting-edge **NLP techniques** to make machines understand human language 🧠  
+- Leveraging **MERN Stack** to design seamless web applications 🌐  
 
 ---
 
@@ -41,4 +42,4 @@
 ### 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-khunger-345455205/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyansh-khunger26)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
